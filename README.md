@@ -1,0 +1,2 @@
+# Political-Tweet-Classification-42186-Model-based-machine-learning
+A model-based machine learning project for classifying political tweets from the 2020 U.S. Presidential Election as Democratic or Republican. The project implements two probabilistic models — a Bayesian Logistic Regression baseline and a custom Bayesian Hierarchical Model integrating LDA, GMM, sentiment analysis, and TF-IDF features.
